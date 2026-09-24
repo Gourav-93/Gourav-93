@@ -268,8 +268,8 @@ My goal is to become a **strong Software Developer / Backend Developer** by buil
 ## 📫 Connect With Me
 
 * 💻 GitHub: [Gourav-93](https://github.com/Gourav-93)
-* 💼 LinkedIn: *Add your LinkedIn profile here*
-* 📧 Email: *Add your email here*
+* 💼 LinkedIn: www.linkedin.com/in/gourav-khore-492629322
+* 📧 Email: gouravkhore656@gmail.com
 
 ---
 
