@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Gourav Khore
 
-### 💻 Software Developer | Java & .NET Developer
+### 💻 Software Developer | Spring Boot & ASP.NET Core Developer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gourav%20Khore&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Java%20%7C%20.NET&descAlignY=55&descSize=20" width="100%"/>
 
