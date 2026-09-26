@@ -34,7 +34,7 @@ Currently, I'm working with **Java, Spring Boot, C#, .NET, ASP.NET Core, Entity 
 # 💼 Internship Experience
 
 ### 🏢 Software and Android Developer Intern
-**Winlancer Technology Pvt Ltd**
+**Winlancer Technology Pvt Ltd Indore**
 
 📅 **September 2026 – Present**
 
