@@ -2,18 +2,25 @@
 
 <div align="center">
 
-👋 Hi, I'm Gourav Khore
-💻 Software Developer | Java & ASP.NET Core Developer
+# 👋 Hi, I'm Gourav Khore
+
+### 💻 Software Developer | Spring Boot & ASP.NET Core Developer
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gourav%20Khore&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Java%20%7C%20.NET&descAlignY=55&descSize=20" width="100%"/>
 
 </div>
 
-👨‍💻 About Me
-I'm a Computer Science student and software developer interested in building backend applications, REST APIs, database-driven systems, and real-world software applications.
-Currently, I'm working with Java, Spring Boot, C#, .NET, ASP.NET Core, Entity Framework Core, MySQL, and REST APIs.
-- 🎓 Recently completed Diploma in Computer Science
-- 🎓 Currently pursuing B.Tech in Computer Science
-- 💻 Interested in Backend Development
+---
+
+# 👨‍💻 About Me
+
+I'm a Computer Science student and software developer interested in building **backend applications, REST APIs, database-driven systems, and full-stack applications**.
+
+Currently, I'm working with **Java, Spring Boot, C#, .NET, ASP.NET Core, Entity Framework Core, MySQL, and REST APIs**.
+
+- 🎓 Recently completed **Diploma in Computer Science**
+- 🎓 Currently pursuing **B.Tech in Computer Science**
+- 💻 Interested in **Backend Development**
 - ☕ Java & Spring Boot Developer
 - 🟣 C# & .NET Developer
 - 🗄️ MySQL & Entity Framework Core
@@ -21,12 +28,20 @@ Currently, I'm working with Java, Spring Boot, C#, .NET, ASP.NET Core, Entity Fr
 - 🧠 Data Structures & Algorithms
 - 🔨 Building real-world projects
 - 📚 Continuously learning new technologies
-💼 Internship Experience
-🏢 Software and Android Developer Intern
-Winlancer Technology Pvt Ltd, Indore
-📅 September 2026 – Present
+
+---
+
+# 💼 Internship Experience
+
+### 🏢 Software and Android Developer Intern
+**Winlancer Technology Pvt Ltd Indore**
+
+📅 **September 2026 – Present**
+
 Currently gaining hands-on experience in real-world software development and backend API development.
-🔧 Technologies & Responsibilities
+
+### 🔧 Technologies & Responsibilities
+
 - 💻 C#
 - 🟣 .NET
 - 🌐 .NET Core
@@ -42,8 +57,13 @@ Currently gaining hands-on experience in real-world software development and bac
 - 🧪 Postman API Testing
 - 🛠️ Git & GitHub
 - 📱 Android Application Development
-🛠️ Tech Stack
-👨‍💻 Programming Languages
+
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Programming Languages
+
 <p align="left">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -58,7 +78,10 @@ Currently gaining hands-on experience in real-world software development and bac
 
 </p>
 
-☕ Java & Spring
+---
+
+## ☕ Java & Spring
+
 <p align="left">
 
 <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -75,7 +98,10 @@ Currently gaining hands-on experience in real-world software development and bac
 
 </p>
 
-🟣 .NET & ASP.NET Core
+---
+
+## 🟣 .NET & ASP.NET Core
+
 <p align="left">
 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -90,18 +116,22 @@ Currently gaining hands-on experience in real-world software development and bac
 
 </p>
 
-🗄️ Database
+---
+
+## 🗄️ Database
+
 <p align="left">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
-🔧 Tools
+---
+
+## 🔧 Tools
+
 <p align="left">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -118,29 +148,20 @@ Currently gaining hands-on experience in real-world software development and bac
 
 </p>
 
-🚀 Featured Projects
+---
+
+# 🚀 Featured Projects
+
 <table>
 <tr>
 <td width="50%">
 
-📄 Resume Management System
-Java-based application for managing resume information and user details.
-Features
-- User Management
-- Resume Management
-- Personal Information
-- Education Details
-- Skills Management
-- REST APIs
-- Database Integration
-Tech: Java • Spring Boot • Hibernate • MySQL
-</td>
+## 🏦 Bank Management System
 
-<td width="50%">
+Spring Boot based banking application.
 
-🏦 Bank Management System
-Backend-focused banking application for managing accounts and transactions.
-Features
+**Features**
+
 - JWT Authentication
 - User Registration
 - Balance Enquiry
@@ -148,55 +169,129 @@ Features
 - Money Transfer
 - Bank Statement
 - MySQL Database
-Tech: Java • Spring Boot • JWT • MySQL
+
+**Tech:** Java • Spring Boot • JWT • MySQL
+
+</td>
+
+<td width="50%">
+
+## 🛒 E-Commerce Application
+
+Backend-focused e-commerce application.
+
+**Features**
+
+- User & Admin Roles
+- JWT Authentication
+- Product Management
+- Cart
+- Wishlist
+- Orders
+- Admin Dashboard
+
+**Tech:** Java • Spring Boot • Hibernate • MySQL
+
 </td>
 </tr>
 
 <tr>
 <td width="50%">
 
-💰 Employee Management & Payroll System
-A complete employee management system for handling employees, attendance, leaves and payroll.
-Features
-- JWT Authentication
-- Admin / HR / Employee Roles
-- Employee Management
-- Department Management
-- Attendance Management
-- Leave Management
-- Payroll Management
-- Role-Based Authorization
-- Global Exception Handling
-Tech: C# • ASP.NET Core • EF Core • MySQL • JWT
+## 📢 Complaint Management System
+
+Database-driven CRUD application.
+
+**Features**
+
+- User Management
+- Technician Management
+- Complaint Management
+- Priority
+- Status
+- REST APIs
+- Database Integration
+
+**Tech:** C# • ASP.NET Core • EF Core • MySQL
+
 </td>
 
 <td width="50%">
 
-💊 MediCare — Smart Medicine Monitoring System
-A smart healthcare monitoring system designed to help patients remember their medicines and allow caregivers to monitor them.
-Features
-- Admin, Patient & Caregiver Roles
-- Medicine Management
-- Medicine Schedules
-- Medicine Reminders
-- Caregiver Monitoring
-- JWT Authentication
+## 💬 ChatBoard
+
+AI-powered chat application using Gemini API.
+
+**Features**
+
+- AI Chat
+- Gemini API
+- Backend API
+- Chat Interface
+- AI-assisted Bug Detection
+
+**Tech:** C# • ASP.NET Core • Gemini API
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🏥 Hospital Management System
+
+CRUD-based hospital management application.
+
+**Features**
+
+- Patient Management
+- Doctor Management
+- Hospital Records
+- CRUD Operations
 - REST APIs
-- Background Services
 - Database Integration
-Tech: C# • ASP.NET Core • EF Core • MySQL/PostgreSQL • JWT
+
+**Tech:** ASP.NET Core • REST API • MySQL
+
+</td>
+
+<td width="50%">
+
+## 👨‍🎓 Student Management System
+
+Database-driven student management application.
+
+**Features**
+
+- Student CRUD
+- MySQL Integration
+- Entity Framework Core
+- Database Migrations
+- Service Layer
+
+**Tech:** C# • .NET • EF Core • MySQL
+
 </td>
 </tr>
 </table>
 
-📚 Other Projects
-- 📢 Complaint Management System
-- 🏥 Hospital Management API
-- 👨‍🎓 Student Management System
-- 💬 ChatBoard — AI Chat Application
-- 🛒 E-Commerce Application
+---
+
+# 📚 Other Projects
+
+- 🍔 Food Ordering / Swiggy Clone
+- 📱 Social Media Web Application
+- 📝 Online Exam System
 - 👨‍💼 Employee Management System
-📊 GitHub Statistics
+- 🌐 Student Management REST API
+- 🏦 Bank Management System
+- 🛒 E-Commerce Application
+- 🏥 Hospital Management System
+
+---
+
+# 📊 GitHub Statistics
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Gourav-93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
@@ -205,21 +300,31 @@ Tech: C# • ASP.NET Core • EF Core • MySQL/PostgreSQL • JWT
 
 </div>
 
-🔥 GitHub Contribution Streak
+---
+
+# 🔥 GitHub Contribution Streak
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Gourav-93&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
-📈 GitHub Activity Graph
+---
+
+# 📈 GitHub Activity Graph
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gourav-93&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
-🧠 Currently Learning
+---
+
+# 🧠 Currently Learning
+
+```text
 JAVA
  ├── Core Java
  ├── Spring Boot
@@ -240,38 +345,13 @@ C# & .NET
 
 DATABASE
  ├── MySQL
- ├── PostgreSQL
  ├── SQL
- └── Database Design
+ ├── Database Design
+ └── CRUD Operations
 
 DEVELOPMENT
  ├── Git & GitHub
  ├── Postman
  ├── Swagger
  ├── DSA
- ├── REST API Development
- └── Backend Architecture
-🎯 2026 Goals
-- 🚀 Become a strong Backend Developer
-- ☕ Improve Java & Spring Boot
-- 🟣 Improve C# & ASP.NET Core
-- 🗄️ Master MySQL & PostgreSQL
-- 🐳 Learn Docker
-- ⚙️ Learn CI/CD
-- 🤖 Build AI-powered applications
-- 🧠 Strengthen DSA & problem solving
-- 🌐 Contribute to open-source projects
-🔥 Turning Ideas Into Real-World Software
-<div align="center">
-
-💻 Code → ⚙️ Build → 🧪 Test → 🚀 Deploy
-
-"Keep learning. Keep building. Keep improving."
-</div>
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
-
-</div>
+ └── REST API Development
