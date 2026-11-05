@@ -109,3 +109,30 @@ Hi, I'm **Gourav Khore**, a passionate Full Stack Developer from Indore, India.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer"/>
 
 </div>
+
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Gourav-93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br/>
+
+### 🔥 GitHub Contribution Streak
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=Gourav-93&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+### 📈 Contribution Graph
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gourav-93&theme=tokyo-night&hide_border=true&area=true" />
+
+<br/>
+
+### 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-93&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
