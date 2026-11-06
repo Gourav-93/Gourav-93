@@ -119,11 +119,7 @@ Hi, I'm **Gourav Khore**, a passionate Full Stack Developer from Indore, India.
 
 <br/>
 
-### 🔥 GitHub Contribution Streak
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=Gourav-93&theme=tokyonight&hide_border=true" />
-
-<br/>
 
 ### 📈 Contribution Graph
 
