@@ -119,16 +119,3 @@ Hi, I'm **Gourav Khore**, a passionate Full Stack Developer from Indore, India.
 
 <br/>
 
-
-
-### 📈 Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gourav-93&theme=tokyo-night&hide_border=true&area=true" />
-
-<br/>
-
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-93&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
